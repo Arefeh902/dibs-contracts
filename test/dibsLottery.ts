@@ -30,6 +30,7 @@ describe("DibsLottery", async () => {
 
   let firstRoundStartTime: BigNumberish;
   let roundDuration: BigNumberish = BigNumber.from(60 * 60 * 24 * 7); // 1 week
+  let claimDuration: BigNumberish = 14; // 14 days
 
   let lotteryToken1: MockContract;
   let lotteryToken2: MockContract;
@@ -98,6 +99,7 @@ describe("DibsLottery", async () => {
     );
 
     await dibsLottery.connect(setter).setDibs(dibs.address);
+    await dibsLottery.connect(setter).setClaimDuration(claimDuration);
   }
 
   beforeEach(async () => {

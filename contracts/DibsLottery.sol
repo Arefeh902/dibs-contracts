@@ -41,6 +41,7 @@ contract DibsLottery is AccessControlUpgradeable {
     mapping(uint32 => address[]) public topReferrers; // top referrers of the day
     mapping(address => uint32[]) public winningDays; // days that the user has been in the referrer ranking
 
+    uint32 public claimDuration; // number of the days that a winner can claim their reward after winning them
     uint32 public lastRefDay;
 
     error LotteryRoundNotOver();
@@ -452,6 +453,15 @@ contract DibsLottery is AccessControlUpgradeable {
     function setDibs(address dibs_) external onlyRole(SETTER) {
         emit SetDibs(dibs, dibs_);
         dibs = dibs_;
+    }
+
+    event SetClaimDuration(uint32 _old, uint32 _new);
+
+    /// @notice sets claimDuration
+    /// @param _claimDuration deadline for claiming rewards after they are won
+    function setClaimDuration(uint32 _claimDuration) external onlyRole(SETTER) {
+        emit SetClaimDuration(claimDuration, _claimDuration);
+        claimDuration = _claimDuration;
     }
 
     event RecoverERC20(address _token, address _to, uint256 _amount);
