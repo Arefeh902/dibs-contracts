@@ -41,6 +41,7 @@ contract DibsLottery is AccessControlUpgradeable {
 	mapping(address => mapping(address => RewardAcc[])) public balanceOf; // (user => (token => balance))
 	mapping(address => mapping(address => uint256)) public balanceOfStartIndex; // (user => (token => start index of unclaimed))
 	mapping(address => mapping(address => uint256)) public balanceOfEndIndex; // (user => (token => end index of unclaimed))
+	mapping(address => mapping(address => uint256[])) public balanceOfAcc; // (user =>> (token => balance acc)) 
 	mapping(address => address[]) public userTokens; // tokens that the user has been rewarded (user => tokens)
 	mapping(address => mapping(address => bool)) public hasToken; // (user => (token => bool))
 
@@ -485,12 +486,13 @@ contract DibsLottery is AccessControlUpgradeable {
 		uint256 start = _findFirstValidIndex(_user, _token);
 		uint256 end = balanceOfEndIndex[_user][_token];
 	
-		uint256 amount = 0;
-		for(uint256 i=start; i<end; i++){
-			amount += balanceOf[_user][_token][i].amount;
+		if(start != end){
+			if(start == 0){
+				return balanceOfAcc[_user][_token][end - 1];
+			}
+			return balanceOfAcc[_user][_token][end - 1] - balanceOfAcc[_user][_token][start - 1];
 		}
-
-		return amount;
+		return 0;
 	}
 
 	function _updateBalanceOstart(address _user, address _token) internal {
@@ -498,13 +500,20 @@ contract DibsLottery is AccessControlUpgradeable {
 	}
 	
 	function _deposit(address _user, address _token, uint256 _amount) internal {
+
 		balanceOf[_user][_token].push(RewardAcc(_amount, _getToday() + claimDuration));
-		balanceOfEndIndex[_user][_token] += 1;
 
 		if (!hasToken[_user][_token]) {
 			userTokens[_user].push(_token);
 			hasToken[_user][_token] = true;
+
+			balanceOfAcc[_user][_token].push(_amount);
+		}else{
+			balanceOfAcc[_user][_token].push(_amount + balanceOfAcc[_user][_token][balanceOfEndIndex[_user][_token]-1]);
 		}
+
+		balanceOfEndIndex[_user][_token] += 1;
+
 	}
 
 	function _withdraw(
