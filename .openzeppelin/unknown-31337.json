@@ -662,87 +662,87 @@
     },
     {
       "address": "0xfaAddC93baf78e89DCf37bA67943E1bE8F37Bb8c",
-      "txHash": "0x3756ef8a831de873e28a3f6e0ec4e18122d6987bb814c72f232312d35e0ad284",
+      "txHash": "0xca7751acec4433d34ae8666079d049ddb1b49d3ed09457935c244009e1c3a875",
       "kind": "transparent"
     },
     {
       "address": "0x525C7063E7C20997BaaE9bDa922159152D0e8417",
-      "txHash": "0x8e09a418e3a6800bf6889c079300b8208e41776228cf6c3af59d14ade444cb81",
+      "txHash": "0xcb265d1ec6e626826e433d6f96ee5a584ac7a20eac063a04eda8ce0c107af72f",
       "kind": "transparent"
     },
     {
       "address": "0x6F6f570F45833E249e27022648a26F4076F48f78",
-      "txHash": "0xfc4879cfa3fc8588733326184f6360687db5fe4305cd7ac1cddd997e9f0f9f00",
+      "txHash": "0xe42d9b164f7adcd72a224e711a9b8d0cd8ba402ceea446507000c5f947200f09",
       "kind": "transparent"
     },
     {
       "address": "0x02b0B4EFd909240FCB2Eb5FAe060dC60D112E3a4",
-      "txHash": "0x0f63f91e90f4fd71a5965f71fdbf2af6ef14b999964def11bcb6a5c7473f3b1e",
+      "txHash": "0x03e3e2cd5d1976a88f6fbad0d31cee78edd2980b709e97f04c18fb6916f193f1",
       "kind": "transparent"
     },
     {
       "address": "0xde2Bd2ffEA002b8E84ADeA96e5976aF664115E2c",
-      "txHash": "0xaa150c35d8d0a4178d0e31e061dac1242f9785a0999a00cd5aed3ff32aee928f",
+      "txHash": "0x035d2810357ae261af2776f0c1117524b810bded20d321ceff8d74dd655d363e",
       "kind": "transparent"
     },
     {
       "address": "0xefAB0Beb0A557E452b398035eA964948c750b2Fd",
-      "txHash": "0xca3acdf45ae25831a7445b95975c3c3b049c37d5a5ea15eac11cc9453ee7aa5d",
+      "txHash": "0x0c35bcb2658d91bf35c2816c9304a8ed4fcd17a9cb151673c92f2a49539da8bf",
       "kind": "transparent"
     },
     {
       "address": "0x2b5A4e5493d4a54E717057B127cf0C000C876f9B",
-      "txHash": "0x0fe4a48fe73154e5122eba64827cf478d8f0ae63a1e34d84ad25ebb2f9eed618",
+      "txHash": "0x98b24d3c6810ac83af456ce79d43260cf3a9201c9303630e8dfb6b4f96255a6a",
       "kind": "transparent"
     },
     {
       "address": "0xaC47e91215fb80462139756f43438402998E4A3a",
-      "txHash": "0xa54ff106784836afc1b8d2d47c1f621bdf18594d93c79d7f62a7660a195a1084",
+      "txHash": "0xc152a57e1dfb3e205fdca6aac1689f69c511833d78e3073cf62db5475aad90f6",
       "kind": "transparent"
     },
     {
       "address": "0xe039608E695D21aB11675EBBA00261A0e750526c",
-      "txHash": "0xdca0b1def3272672c2d9d1f8fcc207ed851f182138da1aa782a1decc6caa3a09",
+      "txHash": "0xa9446b1716ac8890558d5b6f1a4465e82c3dfbb8c9977fca0fc9b33316900454",
       "kind": "transparent"
     },
     {
       "address": "0x139e1D41943ee15dDe4DF876f9d0E7F85e26660A",
-      "txHash": "0xafba47e20717a236e26cc419cceccbd2c82a8b01b2e52de85939f61feefee835",
+      "txHash": "0xa6cec9a7ab5609e6c2d922f1363e24359650f53071620d28878a9ac4ffa9c5b1",
       "kind": "transparent"
     },
     {
       "address": "0xDde063eBe8E85D666AD99f731B4Dbf8C98F29708",
-      "txHash": "0x777fa30270577c403502b94828eba2cc582c3841a938d8e4930ac821c53fe265",
+      "txHash": "0x6b1a55e0fc1737be9e1f53e43f8e670651f582e09a34e4971a6c01d701f0e3e0",
       "kind": "transparent"
     },
     {
       "address": "0x942ED2fa862887Dc698682cc6a86355324F0f01e",
-      "txHash": "0x5af2c3d22f1cc1fb58a5d9389077d1e56c7f5a6e24a4cb66cdd38e66fc3490ce",
+      "txHash": "0x33c7c3c6f9a8bd2264af1d76996d7a5dbd1b24910129bae4e06eeb7058a0088b",
       "kind": "transparent"
     },
     {
       "address": "0xC1e0A9DB9eA830c52603798481045688c8AE99C2",
-      "txHash": "0xe1beee1053f5b6e3eeabf69a2f069ecb7dfa9f6b7ca29280a73b39d0abd29aae",
+      "txHash": "0x54db4cd3274fa34c13f42c47bf13d316dc35962c847a1a5cdf092b7adb9e7430",
       "kind": "transparent"
     },
     {
       "address": "0x1343248Cbd4e291C6979e70a138f4c774e902561",
-      "txHash": "0x9df7a88ca6e2a12483f0a319f39dcc6a830a2a86574533dd8ee1d9395d21f873",
+      "txHash": "0x1ac1f369433234e7e99bf1eadb86b0f591a33c9b826defd09744fbb5a58a2845",
       "kind": "transparent"
     },
     {
       "address": "0xd3FFD73C53F139cEBB80b6A524bE280955b3f4db",
-      "txHash": "0xa86da11d3ba13331e6d56bf55898fa749934433172c9657eb2e3f6f8ecc1ab94",
+      "txHash": "0x90860bbc2973c64a1f009a030db18098db6c31d3e20fd9b1c432dc68a8026b82",
       "kind": "transparent"
     },
     {
       "address": "0x572316aC11CB4bc5daf6BDae68f43EA3CCE3aE0e",
-      "txHash": "0x8972ab1a7527c2a283ded1a94123041a0e6dc2396b7e42c2700a54f9306f9819",
+      "txHash": "0x927caaacc755a5f9d6d49209667d5688d5a4fadb5289a6a99d1c06840fce1966",
       "kind": "transparent"
     },
     {
       "address": "0x666D0c3da3dBc946D5128D06115bb4eed4595580",
-      "txHash": "0x392f0b6c6fee2d41b093d92a2b4ca758388fa9d803c0bf40c054f73ea0284d52",
+      "txHash": "0xd774b3e4c787e595211335228fd5db76d7a923a5e9557d5a9ca2981d5b0cee5d",
       "kind": "transparent"
     },
     {
@@ -1979,7 +1979,7 @@
             "label": "projects",
             "offset": 0,
             "slot": "152",
-            "type": "t_mapping(t_bytes32,t_struct(Project)6606_storage)",
+            "type": "t_mapping(t_bytes32,t_struct(Project)6633_storage)",
             "contract": "DibsRepository",
             "src": "contracts/DibsRepository.sol:37"
           },
@@ -2021,7 +2021,7 @@
             "label": "mapping(address => bool)",
             "numberOfBytes": "32"
           },
-          "t_mapping(t_bytes32,t_struct(Project)6606_storage)": {
+          "t_mapping(t_bytes32,t_struct(Project)6633_storage)": {
             "label": "mapping(bytes32 => struct Project)",
             "numberOfBytes": "32"
           },
@@ -2033,7 +2033,7 @@
             "label": "string",
             "numberOfBytes": "32"
           },
-          "t_struct(Project)6606_storage": {
+          "t_struct(Project)6633_storage": {
             "label": "struct Project",
             "members": [
               {
@@ -2108,9 +2108,9 @@
         }
       }
     },
-    "c362016dfbbbe6e0fe2c199fa1a6e9aed4d7e63ec865c6e7de9502503f554f57": {
+    "4a85600a19a7265bf97ca11f1da3ccb3c6089629ac30976f2150db4c45b7e1ad": {
       "address": "0xA7c59f010700930003b33aB25a7a0679C860f29c",
-      "txHash": "0xf4d9dec6b6f4057443ba1e430c5940a2df9259bea48b53c30bc0535cdfc2207b",
+      "txHash": "0x0982d86f717d9d828a98d38aee3735bacbe1d60f9f6068e552447faa327d52e0",
       "layout": {
         "solcVersion": "0.8.17",
         "storage": [
@@ -2169,7 +2169,7 @@
             "slot": "151",
             "type": "t_address",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:24"
+            "src": "contracts/DibsLottery.sol:29"
           },
           {
             "label": "winnersPerRound",
@@ -2177,7 +2177,7 @@
             "slot": "151",
             "type": "t_uint8",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:26"
+            "src": "contracts/DibsLottery.sol:31"
           },
           {
             "label": "roundToWinners",
@@ -2185,7 +2185,7 @@
             "slot": "152",
             "type": "t_mapping(t_uint32,t_array(t_address)dyn_storage)",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:28"
+            "src": "contracts/DibsLottery.sol:33"
           },
           {
             "label": "roundWinnersCount",
@@ -2193,7 +2193,7 @@
             "slot": "153",
             "type": "t_mapping(t_uint32,t_uint256)",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:29"
+            "src": "contracts/DibsLottery.sol:34"
           },
           {
             "label": "roundClaimed",
@@ -2201,7 +2201,7 @@
             "slot": "154",
             "type": "t_mapping(t_uint32,t_mapping(t_address,t_bool))",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:31"
+            "src": "contracts/DibsLottery.sol:36"
           },
           {
             "label": "rewardTokens",
@@ -2209,7 +2209,7 @@
             "slot": "155",
             "type": "t_array(t_address)dyn_storage",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:33"
+            "src": "contracts/DibsLottery.sol:38"
           },
           {
             "label": "rewardAmounts",
@@ -2217,71 +2217,87 @@
             "slot": "156",
             "type": "t_array(t_uint256)dyn_storage",
             "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:34"
+            "src": "contracts/DibsLottery.sol:39"
           },
           {
             "label": "balanceOf",
             "offset": 0,
             "slot": "157",
-            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
-            "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:36"
-          },
-          {
-            "label": "userTokens",
-            "offset": 0,
-            "slot": "158",
-            "type": "t_mapping(t_address,t_array(t_address)dyn_storage)",
-            "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:37"
-          },
-          {
-            "label": "hasToken",
-            "offset": 0,
-            "slot": "159",
-            "type": "t_mapping(t_address,t_mapping(t_address,t_bool))",
-            "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:38"
-          },
-          {
-            "label": "leaderBoards",
-            "offset": 0,
-            "slot": "160",
-            "type": "t_array(t_struct(LeaderBoard)2413_storage)dyn_storage",
-            "contract": "DibsLottery",
-            "src": "contracts/DibsLottery.sol:40"
-          },
-          {
-            "label": "topReferrers",
-            "offset": 0,
-            "slot": "161",
-            "type": "t_mapping(t_uint32,t_array(t_address)dyn_storage)",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(RewardAcc)2418_storage)dyn_storage))",
             "contract": "DibsLottery",
             "src": "contracts/DibsLottery.sol:41"
           },
           {
-            "label": "winningDays",
+            "label": "balanceOfStartIndex",
             "offset": 0,
-            "slot": "162",
-            "type": "t_mapping(t_address,t_array(t_uint32)dyn_storage)",
+            "slot": "158",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
             "contract": "DibsLottery",
             "src": "contracts/DibsLottery.sol:42"
           },
           {
-            "label": "claimDuration",
+            "label": "balanceOfEndIndex",
             "offset": 0,
-            "slot": "163",
-            "type": "t_uint32",
+            "slot": "159",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "DibsLottery",
+            "src": "contracts/DibsLottery.sol:43"
+          },
+          {
+            "label": "userTokens",
+            "offset": 0,
+            "slot": "160",
+            "type": "t_mapping(t_address,t_array(t_address)dyn_storage)",
             "contract": "DibsLottery",
             "src": "contracts/DibsLottery.sol:44"
           },
           {
-            "label": "lastRefDay",
-            "offset": 4,
-            "slot": "163",
-            "type": "t_uint32",
+            "label": "hasToken",
+            "offset": 0,
+            "slot": "161",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_bool))",
             "contract": "DibsLottery",
             "src": "contracts/DibsLottery.sol:45"
+          },
+          {
+            "label": "leaderBoards",
+            "offset": 0,
+            "slot": "162",
+            "type": "t_array(t_struct(LeaderBoard)2413_storage)dyn_storage",
+            "contract": "DibsLottery",
+            "src": "contracts/DibsLottery.sol:47"
+          },
+          {
+            "label": "topReferrers",
+            "offset": 0,
+            "slot": "163",
+            "type": "t_mapping(t_uint32,t_array(t_address)dyn_storage)",
+            "contract": "DibsLottery",
+            "src": "contracts/DibsLottery.sol:48"
+          },
+          {
+            "label": "winningDays",
+            "offset": 0,
+            "slot": "164",
+            "type": "t_mapping(t_address,t_array(t_uint32)dyn_storage)",
+            "contract": "DibsLottery",
+            "src": "contracts/DibsLottery.sol:49"
+          },
+          {
+            "label": "claimDuration",
+            "offset": 0,
+            "slot": "165",
+            "type": "t_uint32",
+            "contract": "DibsLottery",
+            "src": "contracts/DibsLottery.sol:51"
+          },
+          {
+            "label": "lastRefDay",
+            "offset": 4,
+            "slot": "165",
+            "type": "t_uint32",
+            "contract": "DibsLottery",
+            "src": "contracts/DibsLottery.sol:52"
           }
         ],
         "types": {
@@ -2299,6 +2315,10 @@
           },
           "t_array(t_struct(LeaderBoard)2413_storage)dyn_storage": {
             "label": "struct LeaderBoard[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(RewardAcc)2418_storage)dyn_storage": {
+            "label": "struct RewardAcc[]",
             "numberOfBytes": "32"
           },
           "t_array(t_uint256)49_storage": {
@@ -2329,12 +2349,20 @@
             "label": "mapping(address => address[])",
             "numberOfBytes": "32"
           },
+          "t_mapping(t_address,t_array(t_struct(RewardAcc)2418_storage)dyn_storage)": {
+            "label": "mapping(address => struct RewardAcc[])",
+            "numberOfBytes": "32"
+          },
           "t_mapping(t_address,t_array(t_uint32)dyn_storage)": {
             "label": "mapping(address => uint32[])",
             "numberOfBytes": "32"
           },
           "t_mapping(t_address,t_bool)": {
             "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(RewardAcc)2418_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct RewardAcc[]))",
             "numberOfBytes": "32"
           },
           "t_mapping(t_address,t_mapping(t_address,t_bool))": {
@@ -2394,6 +2422,24 @@
               }
             ],
             "numberOfBytes": "96"
+          },
+          "t_struct(RewardAcc)2418_storage": {
+            "label": "struct RewardAcc",
+            "members": [
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "deadline",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
           },
           "t_struct(RoleData)34_storage": {
             "label": "struct AccessControlUpgradeable.RoleData",
